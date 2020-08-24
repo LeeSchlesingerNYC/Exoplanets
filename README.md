@@ -26,4 +26,8 @@ Transit	(3191) - an object block some of the star's light
 Transit Timing Variations	(21) - measuring variations in the transit times to detect other objects
 
 
+https://en.wikipedia.org/wiki/List_of_exoplanet_search_projects
+https://en.wikipedia.org/wiki/Sagittarius_Window_Eclipsing_Extrasolar_Planet_Search
 https://en.wikipedia.org/wiki/CoRoT#List_of_planets_discovered
+https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite
+https://en.wikipedia.org/wiki/CHEOPS
