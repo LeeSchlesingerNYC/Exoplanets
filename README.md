@@ -24,3 +24,6 @@ Radial Velocity	(810) - star's motion displays a wobble
 Transit	(3191) - an object block some of the star's light
 
 Transit Timing Variations	(21) - measuring variations in the transit times to detect other objects
+
+
+https://en.wikipedia.org/wiki/CoRoT#List_of_planets_discovered
