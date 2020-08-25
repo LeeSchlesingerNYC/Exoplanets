@@ -7,7 +7,7 @@ Discovering exoplanets is approached with several techniques:
 * Eclipse Timing Variations	(16) - a binary star system where eclipsing has variation due to other object(s)  
 * Imaging	(50) - removing the star's light from the image to find what remains  
 * Microlensing	(96) - light from the star is gravitationally bent  
-* Orbital Brightness Modulation	(6) - the brightness of the star changes because of reflected light  
+* Orbital Brightness Modulation	(6) - the brightness of the star changes because of reflected light off object  
 * Pulsar Timing	(7) - slight regular variation in pulsar bursts due to other objects  
 * Pulsation Timing Variations	(2) - Doppler shift in bursts from a pulsar  
 * Radial Velocity	(810) - star's motion displays a wobble  
