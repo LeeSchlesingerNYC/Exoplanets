@@ -12,7 +12,7 @@ Orbital Brightness Modulation	(6) - the brightness of the star changes because o
 Pulsar Timing	(7) - slight regular variation in pulsar bursts due to other objects  
 Pulsation Timing Variations	(2) - Doppler shift in bursts from a pulsar  
 Radial Velocity	(810) - star's motion displays a wobble  
-Transit	(3191) - an object block some of the star's light
+Transit	(3191) - an object block some of the star's light  
 Transit Timing Variations	(21) - measuring variations in the transit times to detect other objects  
 
 
