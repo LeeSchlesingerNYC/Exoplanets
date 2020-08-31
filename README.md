@@ -1,7 +1,10 @@
 # Exoplanets
-Using NASA data to determine if observation indicates that an exoplanet was located
 
-Discovering exoplanets is approached with several techniques:   
+Exoplanets are planets orbiting other stars
+
+Using NASA data to determine if an observation indicates that an exoplanet was located
+
+Discovering exoplanets is approached with several techniques.  Numbers in parentheses is planets confirmed:   
 * Astrometry	(1) - star wobbles compared to nearby stars  
 * Disk Kinematics	(1) - looking for gaps in material around star (where it collected into an object  
 * Eclipse Timing Variations	(16) - a binary star system where eclipsing has variation due to other object(s)  
@@ -14,7 +17,12 @@ Discovering exoplanets is approached with several techniques:
 * Transit	(3191) - an object block some of the star's light  
 * Transit Timing Variations	(21) - measuring variations in the transit times to detect other objects  
 
+Data set used:
+https://www.kaggle.com/nasa/kepler-exoplanet-search-results
 
+The data set used includes a preliminary classification of "False Positive" and "Candidate".  The subsequent determination categories are "False Positive", "Candidate", and "Confirmed".  For modeling predictions, "False Positive" and "Confirmed were included; "Candidate" was excluded.
+
+Other potential data sets:
 https://en.wikipedia.org/wiki/List_of_exoplanet_search_projects  
 https://en.wikipedia.org/wiki/Sagittarius_Window_Eclipsing_Extrasolar_Planet_Search  
 https://en.wikipedia.org/wiki/CoRoT#List_of_planets_discovered  
