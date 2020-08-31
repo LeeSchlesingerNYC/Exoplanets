@@ -17,12 +17,12 @@ Discovering exoplanets is approached with several techniques.  Numbers in parent
 * Transit	(3191) - an object block some of the star's light  
 * Transit Timing Variations	(21) - measuring variations in the transit times to detect other objects  
 
-Data set used: 
+Data set used:  
 https://www.kaggle.com/nasa/kepler-exoplanet-search-results
 
 The data set used includes a preliminary classification of "False Positive" and "Candidate".  The subsequent determination categories are "False Positive", "Candidate", and "Confirmed".  For modeling predictions, "False Positive" and "Confirmed were included; "Candidate" was excluded.
 
-Other potential data sets: 
+Other potential data sets:  
 https://en.wikipedia.org/wiki/List_of_exoplanet_search_projects  
 https://en.wikipedia.org/wiki/Sagittarius_Window_Eclipsing_Extrasolar_Planet_Search  
 https://en.wikipedia.org/wiki/CoRoT#List_of_planets_discovered  
