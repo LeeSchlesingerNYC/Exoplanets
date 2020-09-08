@@ -1,10 +1,10 @@
 # Exoplanets
 
-Exoplanets are planets orbiting other stars
+Exoplanets are planets orbiting other stars.
 
-Using NASA data to determine if an observation indicates that an exoplanet was located
+This repository used NASA summary data of Kepler "objects of interests" to determine if an observation indicates that an exoplanet was located.
 
-Discovering exoplanets is approached with several techniques.  Numbers in parentheses is planets confirmed:   
+Discovering exoplanets is approached with several techniques.  Numbers in parentheses is planets confirmed to NASA:   
 * Astrometry	(1) - star wobbles compared to nearby stars  
 * Disk Kinematics	(1) - looking for gaps in material around star (where it collected into an object  
 * Eclipse Timing Variations	(16) - a binary star system where eclipsing has variation due to other object(s)  
@@ -20,7 +20,7 @@ Discovering exoplanets is approached with several techniques.  Numbers in parent
 Data set used:  
 https://www.kaggle.com/nasa/kepler-exoplanet-search-results
 
-The data set used includes a preliminary classification of "False Positive" and "Candidate".  The subsequent determination categories are "False Positive", "Candidate", and "Confirmed".  For modeling predictions, "False Positive" and "Confirmed were included; "Candidate" was excluded.
+The data set used includes a preliminary classification of "False Positive" and "Candidate".  The subsequent determination categories are "False Positive", "Candidate", and "Confirmed".  For modeling building, "False Positive" and "Confirmed were included; "Candidate" was excluded.  The model was used to make determinations for objects of interest that remain categorized as "Candidate".
 
 Other potential data sets:  
 https://en.wikipedia.org/wiki/List_of_exoplanet_search_projects  
