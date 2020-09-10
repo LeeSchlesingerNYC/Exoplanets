@@ -22,6 +22,8 @@ https://www.kaggle.com/nasa/kepler-exoplanet-search-results
 
 The data set used includes a preliminary classification of "False Positive" and "Candidate".  The subsequent determination categories are "False Positive", "Candidate", and "Confirmed".  For modeling building, "False Positive" and "Confirmed were included; "Candidate" was excluded.  The model was used to make determinations for objects of interest that remain categorized as "Candidate".
 
+
+
 Other potential data sets:  
 https://en.wikipedia.org/wiki/List_of_exoplanet_search_projects  
 https://en.wikipedia.org/wiki/Sagittarius_Window_Eclipsing_Extrasolar_Planet_Search  
