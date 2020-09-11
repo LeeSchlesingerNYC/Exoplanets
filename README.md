@@ -25,6 +25,10 @@ The data set used includes a preliminary classification of "False Positive" and 
 Most of Kepler's "objects of interest" were found by a transit.  This is an image of Venus in transit:  
 ![](images/Venus.jpeg)
 
+There are many values recorded for each object.  These include estimaates of its size, mass, surface temperature, and orbit (in days).  These features were placed into correlaton matrix to identify if features are independently significant or represent related information.  
+![](images/correlation.png)
+
+
 Other potential data sets:  
 https://en.wikipedia.org/wiki/List_of_exoplanet_search_projects  
 https://en.wikipedia.org/wiki/Sagittarius_Window_Eclipsing_Extrasolar_Planet_Search  
